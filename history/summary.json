@@ -4,39 +4,35 @@
     "url": "https://feddit.nl",
     "icon": "https://icons.duckduckgo.com/ip3/feddit.nl.ico",
     "slug": "front-end",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 870,
-    "timeDay": 641,
-    "timeWeek": 873,
-    "timeMonth": 870,
-    "timeYear": 870,
-    "dailyMinutesDown": {
-      "2023-08-12": 8
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 853,
+    "timeDay": 682,
+    "timeWeek": 854,
+    "timeMonth": 853,
+    "timeYear": 853,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Back-end",
     "url": "https://feddit.nl/nodeinfo/2.0.json",
     "icon": "https://icons.duckduckgo.com/ip3/feddit.nl.ico",
     "slug": "back-end",
-    "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
-    "time": 123,
-    "timeDay": 85,
-    "timeWeek": 134,
-    "timeMonth": 123,
-    "timeYear": 123,
-    "dailyMinutesDown": {
-      "2023-08-12": 8
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 120,
+    "timeDay": 86,
+    "timeWeek": 126,
+    "timeMonth": 120,
+    "timeYear": 120,
+    "dailyMinutesDown": {}
   }
 ]
