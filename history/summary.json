@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.89%",
-    "time": 902,
-    "timeDay": 663,
-    "timeWeek": 919,
-    "timeMonth": 924,
-    "timeYear": 902,
+    "time": 898,
+    "timeDay": 688,
+    "timeWeek": 871,
+    "timeMonth": 908,
+    "timeYear": 898,
     "dailyMinutesDown": {
       "2023-09-01": 64
     }
@@ -25,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/feddit.nl.ico",
     "slug": "back-end",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.89%",
-    "time": 119,
-    "timeDay": 86,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 119,
+    "uptimeYear": "99.90%",
+    "time": 118,
+    "timeDay": 91,
+    "timeWeek": 114,
+    "timeMonth": 114,
+    "timeYear": 118,
     "dailyMinutesDown": {
       "2023-09-01": 64
     }
