@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/feddit.nl.ico",
     "slug": "front-end",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.89%",
-    "time": 898,
-    "timeDay": 688,
-    "timeWeek": 871,
-    "timeMonth": 908,
-    "timeYear": 898,
+    "uptimeYear": "99.90%",
+    "time": 895,
+    "timeDay": 713,
+    "timeWeek": 816,
+    "timeMonth": 902,
+    "timeYear": 895,
     "dailyMinutesDown": {
       "2023-09-01": 64
     }
@@ -32,8 +32,8 @@
     "uptimeYear": "99.90%",
     "time": 118,
     "timeDay": 91,
-    "timeWeek": 114,
-    "timeMonth": 114,
+    "timeWeek": 104,
+    "timeMonth": 113,
     "timeYear": 118,
     "dailyMinutesDown": {
       "2023-09-01": 64
