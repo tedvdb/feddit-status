@@ -13,9 +13,10 @@
     "time": 897,
     "timeDay": 1016,
     "timeWeek": 833,
-    "timeMonth": 913,
+    "timeMonth": 920,
     "timeYear": 897,
     "dailyMinutesDown": {
+      "2023-09-12": 0,
       "2023-09-01": 64
     }
   },
