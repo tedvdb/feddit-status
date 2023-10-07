@@ -7,7 +7,8 @@ sites:
     url: https://feddit.nl
   - name: Back-end
     url: https://feddit.nl/nodeinfo/2.0.json
-
+  - name: Photon front-end
+    url: https://ph.feddit.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -24,6 +25,8 @@ status-website:
       href: /
     - title: Feddit.nl
       href: https://feddit.nl
+    - title: Feddit.nl (Photon)
+      href: https://ph.feddit.nl
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
