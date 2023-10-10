@@ -1,7 +1,7 @@
 url: https://feddit.nl/nodeinfo/2.0.json
-status: down
-code: 400
-responseTime: 161
-lastUpdated: 2023-10-10T04:00:09.918Z
+status: up
+code: 200
+responseTime: 155
+lastUpdated: 2023-10-10T04:21:19.402Z
 startTime: 2023-07-29T22:41:23.000Z
 generator: Upptime <https://github.com/upptime/upptime>
