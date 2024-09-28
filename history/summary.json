@@ -4,7 +4,7 @@
     "url": "https://feddit.nl",
     "icon": "https://icons.duckduckgo.com/ip3/feddit.nl.ico",
     "slug": "front-end",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1612,
     "timeYear": 1056,
     "dailyMinutesDown": {
+      "2024-09-28": 0,
       "2024-09-17": 20,
       "2024-09-16": 32,
       "2024-09-12": 22,
