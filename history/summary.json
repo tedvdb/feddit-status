@@ -12,7 +12,7 @@
     "uptimeYear": "99.69%",
     "time": 1106,
     "timeDay": 827,
-    "timeWeek": 2602,
+    "timeWeek": 902,
     "timeMonth": 1917,
     "timeYear": 1124,
     "dailyMinutesDown": {
@@ -68,7 +68,7 @@
     "uptimeYear": "99.76%",
     "time": 271,
     "timeDay": 195,
-    "timeWeek": 210,
+    "timeWeek": 212,
     "timeMonth": 206,
     "timeYear": 279,
     "dailyMinutesDown": {
@@ -106,19 +106,19 @@
     "url": "https://ph.feddit.nl",
     "icon": "https://icons.duckduckgo.com/ip3/ph.feddit.nl.ico",
     "slug": "photon-front-end",
-    "status": "down",
+    "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "80.71%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "99.37%",
+    "uptimeDay": "77.54%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "99.26%",
     "uptimeYear": "99.94%",
     "time": 403,
-    "timeDay": 357,
-    "timeWeek": 394,
-    "timeMonth": 393,
-    "timeYear": 403,
+    "timeDay": 460,
+    "timeWeek": 416,
+    "timeMonth": 398,
+    "timeYear": 404,
     "dailyMinutesDown": {
-      "2024-10-10": 278,
+      "2024-10-10": 323,
       "2023-10-12": 17
     }
   }
