@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
     "time": 1098,
-    "timeDay": 1349,
-    "timeWeek": 1145,
-    "timeMonth": 1076,
+    "timeDay": 1096,
+    "timeWeek": 1107,
+    "timeMonth": 1069,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2024-12-21": 48,
@@ -61,9 +61,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 260,
-    "timeDay": 298,
-    "timeWeek": 245,
-    "timeMonth": 232,
+    "timeDay": 239,
+    "timeWeek": 237,
+    "timeMonth": 230,
     "timeYear": 266,
     "dailyMinutesDown": {
       "2024-12-21": 48,
@@ -95,7 +95,7 @@
   {
     "name": "Photon front-end",
     "url": "https://ph.feddit.nl",
-    "icon": "https://icons.duckduckgo.com/ip3/ph.feddit.nl.ico",
+    "icon": "https://feddit.nl/pictrs/image/37f292a9-c706-424d-860d-ffdb818d9b17.png?format=webp&thumbnail=64",
     "slug": "photon-front-end",
     "status": "up",
     "uptime": "99.95%",
@@ -104,12 +104,30 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 404,
-    "timeDay": 557,
-    "timeWeek": 446,
-    "timeMonth": 441,
+    "timeDay": 452,
+    "timeWeek": 434,
+    "timeMonth": 438,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2024-10-10": 323
     }
+  },
+  {
+    "name": "\"old\" front-end",
+    "url": "https://old.feddit.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/old.feddit.nl.ico",
+    "slug": "old-front-end",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 641,
+    "timeDay": 641,
+    "timeWeek": 641,
+    "timeMonth": 641,
+    "timeYear": 641,
+    "dailyMinutesDown": {}
   }
 ]
