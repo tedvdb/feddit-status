@@ -1,6 +1,7 @@
 # Change these first
 owner: tedvdb # Your GitHub organization or username, where this repository lives
 repo: feddit-status # The name of this repository
+user-agent: "TedvdB/Feddit.nl Statuspage (https://status.feddit.nl)"
 
 sites:
   - name: Front-end
@@ -9,6 +10,9 @@ sites:
     url: https://feddit.nl/nodeinfo/2.0.json
   - name: Photon front-end
     url: https://ph.feddit.nl
+    icon: https://feddit.nl/pictrs/image/37f292a9-c706-424d-860d-ffdb818d9b17.png?format=webp&thumbnail=64
+  - name: '"old" front-end'
+    url: https://old.feddit.nl
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,6 +31,8 @@ status-website:
       href: https://feddit.nl
     - title: Feddit.nl (Photon)
       href: https://ph.feddit.nl
+    - title: Feddit.nl ("old")
+      href: https://old.feddit.nl
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
