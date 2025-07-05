@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.80%",
-    "time": 1158,
-    "timeDay": 890,
-    "timeWeek": 1043,
-    "timeMonth": 1089,
-    "timeYear": 1251,
+    "time": 1159,
+    "timeDay": 1062,
+    "timeWeek": 1062,
+    "timeMonth": 1091,
+    "timeYear": 1254,
     "dailyMinutesDown": {
       "2025-04-08": 22,
       "2025-03-25": 26,
@@ -40,8 +40,7 @@
       "2024-07-17": 19,
       "2024-07-15": 31,
       "2024-07-09": 16,
-      "2024-07-06": 15,
-      "2024-07-05": 18
+      "2024-07-06": 15
     }
   },
   {
@@ -56,10 +55,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
     "time": 294,
-    "timeDay": 180,
-    "timeWeek": 199,
+    "timeDay": 219,
+    "timeWeek": 205,
     "timeMonth": 216,
-    "timeYear": 309,
+    "timeYear": 311,
     "dailyMinutesDown": {
       "2025-04-08": 22,
       "2025-03-25": 25,
@@ -80,8 +79,7 @@
       "2024-07-17": 19,
       "2024-07-15": 31,
       "2024-07-09": 16,
-      "2024-07-06": 15,
-      "2024-07-05": 18
+      "2024-07-06": 15
     }
   },
   {
@@ -96,8 +94,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 444,
-    "timeDay": 408,
-    "timeWeek": 445,
+    "timeDay": 477,
+    "timeWeek": 453,
     "timeMonth": 491,
     "timeYear": 466,
     "dailyMinutesDown": {
@@ -112,16 +110,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/old.feddit.nl.ico",
     "slug": "old-front-end",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.86%",
-    "time": 1056,
-    "timeDay": 658,
-    "timeWeek": 809,
-    "timeMonth": 828,
-    "timeYear": 1056,
+    "uptimeYear": "99.87%",
+    "time": 1055,
+    "timeDay": 882,
+    "timeWeek": 829,
+    "timeMonth": 830,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2025-04-08": 22,
       "2025-03-25": 37,
