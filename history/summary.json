@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 1167,
-    "timeDay": 919,
-    "timeWeek": 1226,
-    "timeMonth": 1123,
-    "timeYear": 1276,
+    "timeDay": 892,
+    "timeWeek": 1160,
+    "timeMonth": 1119,
+    "timeYear": 1275,
     "dailyMinutesDown": {
       "2025-04-08": 22,
       "2025-03-25": 26,
@@ -37,8 +37,7 @@
       "2024-08-24": 25,
       "2024-08-18": 20,
       "2024-07-25": 16,
-      "2024-07-17": 19,
-      "2024-07-15": 31
+      "2024-07-17": 19
     }
   },
   {
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
     "time": 297,
-    "timeDay": 328,
-    "timeWeek": 288,
-    "timeMonth": 236,
+    "timeDay": 279,
+    "timeWeek": 272,
+    "timeMonth": 235,
     "timeYear": 267,
     "dailyMinutesDown": {
       "2025-04-08": 22,
@@ -74,8 +73,7 @@
       "2024-08-27": 17,
       "2024-08-18": 20,
       "2024-07-25": 16,
-      "2024-07-17": 19,
-      "2024-07-15": 31
+      "2024-07-17": 19
     }
   },
   {
@@ -90,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 447,
-    "timeDay": 406,
-    "timeWeek": 570,
-    "timeMonth": 508,
+    "timeDay": 395,
+    "timeWeek": 532,
+    "timeMonth": 505,
     "timeYear": 469,
     "dailyMinutesDown": {
       "2025-03-25": 25,
@@ -106,18 +104,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/old.feddit.nl.ico",
     "slug": "old-front-end",
     "status": "up",
-    "uptime": "99.87%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.87%",
-    "time": 1087,
-    "timeDay": 2803,
-    "timeWeek": 1602,
-    "timeMonth": 1056,
-    "timeYear": 1087,
+    "uptime": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.88%",
+    "time": 1085,
+    "timeDay": 2809,
+    "timeWeek": 1574,
+    "timeMonth": 1054,
+    "timeYear": 1085,
     "dailyMinutesDown": {
-      "2025-07-14": 8,
       "2025-04-08": 22,
       "2025-03-25": 37,
       "2025-03-19": 58,
