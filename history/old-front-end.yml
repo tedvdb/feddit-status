@@ -1,7 +1,7 @@
 url: https://old.feddit.nl
-status: down
-code: 500
-responseTime: 564
-lastUpdated: 2025-09-04T15:26:52.694Z
+status: up
+code: 200
+responseTime: 1108
+lastUpdated: 2025-09-04T15:38:55.301Z
 startTime: 2025-03-05T15:59:54.572Z
 generator: Upptime <https://github.com/upptime/upptime>
