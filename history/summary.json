@@ -6,15 +6,15 @@
     "slug": "front-end",
     "status": "up",
     "uptime": "99.62%",
-    "uptimeDay": "72.09%",
+    "uptimeDay": "84.97%",
     "uptimeWeek": "89.01%",
     "uptimeMonth": "97.05%",
-    "uptimeYear": "99.25%",
+    "uptimeYear": "99.26%",
     "time": 2288,
-    "timeDay": 5446,
+    "timeDay": 3234,
     "timeWeek": 4456,
-    "timeMonth": 4178,
-    "timeYear": 2527,
+    "timeMonth": 4174,
+    "timeYear": 2534,
     "dailyMinutesDown": {
       "2025-12-20": 330,
       "2025-12-19": 503,
@@ -58,8 +58,7 @@
       "2025-03-25": 26,
       "2025-03-19": 68,
       "2025-03-18": 107,
-      "2025-03-15": 17,
-      "2024-12-21": 48
+      "2025-03-15": 17
     }
   },
   {
@@ -69,15 +68,15 @@
     "slug": "back-end",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "74.75%",
+    "uptimeDay": "87.41%",
     "uptimeWeek": "93.41%",
     "uptimeMonth": "98.48%",
-    "uptimeYear": "99.70%",
+    "uptimeYear": "99.72%",
     "time": 389,
-    "timeDay": 225,
+    "timeDay": 246,
     "timeWeek": 2562,
-    "timeMonth": 1496,
-    "timeYear": 432,
+    "timeMonth": 1495,
+    "timeYear": 434,
     "dailyMinutesDown": {
       "2025-12-19": 291,
       "2025-12-20": 295,
@@ -100,8 +99,7 @@
       "2025-03-25": 25,
       "2025-03-19": 60,
       "2025-03-18": 99,
-      "2025-03-15": 17,
-      "2024-12-21": 48
+      "2025-03-15": 17
     }
   },
   {
@@ -116,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 515,
-    "timeDay": 655,
-    "timeWeek": 519,
-    "timeMonth": 591,
+    "timeDay": 422,
+    "timeWeek": 521,
+    "timeMonth": 587,
     "timeYear": 546,
     "dailyMinutesDown": {
       "2025-09-19": 32,
@@ -137,11 +135,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.51%",
-    "time": 992,
-    "timeDay": 641,
-    "timeWeek": 549,
-    "timeMonth": 601,
-    "timeYear": 992,
+    "time": 991,
+    "timeDay": 789,
+    "timeWeek": 578,
+    "timeMonth": 609,
+    "timeYear": 991,
     "dailyMinutesDown": {
       "2025-10-23": 171,
       "2025-10-22": 130,
