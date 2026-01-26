@@ -4,18 +4,19 @@
     "url": "https://feddit.nl",
     "icon": "https://icons.duckduckgo.com/ip3/feddit.nl.ico",
     "slug": "front-end",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "96.89%",
+    "uptimeDay": "96.88%",
     "uptimeWeek": "92.90%",
     "uptimeMonth": "95.75%",
     "uptimeYear": "98.98%",
-    "time": 2561,
-    "timeDay": 3874,
-    "timeWeek": 4365,
-    "timeMonth": 3787,
-    "timeYear": 2908,
+    "time": 2570,
+    "timeDay": 4300,
+    "timeWeek": 4440,
+    "timeMonth": 3826,
+    "timeYear": 2916,
     "dailyMinutesDown": {
+      "2026-01-26": 0,
       "2026-01-25": 45,
       "2026-01-24": 83,
       "2026-01-23": 281,
@@ -70,8 +71,7 @@
       "2025-08-27": 23,
       "2025-08-23": 34,
       "2025-08-22": 153,
-      "2025-08-21": 75,
-      "2025-08-20": 36
+      "2025-08-21": 75
     }
   },
   {
