@@ -1,7 +1,7 @@
 url: https://feddit.nl
-status: up
-code: 200
-responseTime: 1636
-lastUpdated: 2026-01-27T21:38:30.387Z
+status: down
+code: 502
+responseTime: 17530
+lastUpdated: 2026-01-27T23:16:15.188Z
 startTime: 2023-07-29T22:41:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
