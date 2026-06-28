@@ -68,11 +68,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/feddit.nl.ico",
     "slug": "back-end",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "98.94%",
+    "uptime": "99.57%",
+    "uptimeDay": "91.30%",
+    "uptimeWeek": "98.76%",
+    "uptimeMonth": "99.71%",
+    "uptimeYear": "98.91%",
     "time": 730,
     "timeDay": 7169,
     "timeWeek": 2286,
@@ -136,7 +136,7 @@
       "2026-05-02": 59,
       "2026-05-05": 57,
       "2026-05-08": 92,
-      "2026-06-28": 0
+      "2026-06-28": 125
     }
   },
   {
