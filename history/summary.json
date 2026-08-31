@@ -67,13 +67,13 @@
     "url": "https://feddit.nl/nodeinfo/2.0.json",
     "icon": "https://icons.duckduckgo.com/ip3/feddit.nl.ico",
     "slug": "back-end",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "98.68%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "98.94%",
-    "time": 745,
+    "time": 746,
     "timeDay": 550,
     "timeWeek": 718,
     "timeMonth": 692,
@@ -128,7 +128,8 @@
       "2026-05-05": 57,
       "2026-05-08": 92,
       "2026-06-28": 251,
-      "2026-08-29": 133
+      "2026-08-29": 133,
+      "2026-08-31": 0
     }
   },
   {
@@ -170,7 +171,7 @@
     "timeDay": 410,
     "timeWeek": 536,
     "timeMonth": 523,
-    "timeYear": 645,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2025-09-01": 22,
       "2025-09-02": 44,
